@@ -1,0 +1,13 @@
+pokemon_id:STRING,
+name:STRING,
+type_1:STRING,
+type_2:STRING,
+total:STRING,
+hp:STRING,
+attack:STRING,
+defence:STRING,
+sp_atk:STRING,
+sp_def:STRING,
+speed:STRING,
+generation:STRING,
+legendary:STRING

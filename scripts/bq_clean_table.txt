@@ -1,0 +1,67 @@
+[
+    {
+        "name": "pokedex_number",
+        "type": "INTEGER",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "name",
+        "type": "STRING",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "type_1",
+        "type": "STRING",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "type_2",
+        "type": "STRING",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "total",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "hp",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "attack",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "defence",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "sp_atk",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "sp_def",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "speed",
+        "type": "INTEGER",
+        "mode": "NULLABLE"
+    },
+    {
+        "name": "generation",
+        "type": "INTEGER",
+        "mode": "REQUIRED"
+    },
+    {
+        "name": "legendary",
+        "type": "BOOLEAN",
+        "mode": "NULLABLE"
+    }
+]

@@ -1,0 +1,82 @@
+{
+    "BigQuery Schema": [
+        {
+            "description": "pokemon number",
+            "mode": "NULLABLE",
+            "name": "pokemon_id",
+            "type": "STRING"
+        },
+        {
+            "description": "pokemon name",
+            "mode": "NULLABLE",
+            "name": "name",
+            "type": "STRING"
+        },
+        {
+            "description": "pokemon type 1",
+            "mode": "NULLABLE",
+            "name": "type_1",
+            "type": "STRING"
+        },
+        {
+            "description": "pokemon type 2",
+            "mode": "NULLABLE",
+            "name": "type_2",
+            "type": "STRING"
+        },
+        {
+            "description": "pokemon Total",
+            "mode": "NULLABLE",
+            "name": "total",
+            "type": "STRING"
+        },
+        {
+            "description": "pokemon HP",
+            "mode": "NULLABLE",
+            "name": "hp",
+            "type": "STRING"
+        },
+        {
+            "description": "pokemon Attack",
+            "mode": "NULLABLE",
+            "name": "attack",
+            "type": "STRING"
+        },
+        {
+            "description": "pokemon Defence",
+            "mode": "NULLABLE",
+            "name": "defence",
+            "type": "STRING"
+        },
+        {
+            "description": "pokemon Sp. Atk",
+            "mode": "NULLABLE",
+            "name": "sp_atk",
+            "type": "STRING"
+        },
+        {
+            "description": "pokemon Sp. Def",
+            "mode": "NULLABLE",
+            "name": "sp_def",
+            "type": "STRING"
+        },
+        {
+            "description": "pokemon Speed",
+            "mode": "NULLABLE",
+            "name": "speed",
+            "type": "STRING"
+        },
+        {
+            "description": "pokemon Generation",
+            "mode": "NULLABLE",
+            "name": "generation",
+            "type": "STRING"
+        },
+        {
+            "description": "pokemon Legendary",
+            "mode": "NULLABLE",
+            "name": "legendary",
+            "type": "STRING"
+        }
+    ]
+}
